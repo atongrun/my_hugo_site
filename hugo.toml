@@ -20,7 +20,7 @@ style = "github-dark"
   info = "Embedded Software Development Engineer"
   description = "Tong's personal website"
   keywords = "blog,developer,personal"
-  avatarurl = "images/avatar.jpg"
+  avatarurl = "https://cdn.jsdelivr.net/gh/atongrun/ImageHost@main/202308222330847.jpg"
   #gravatar = "john.doe@example.com"
 
   faviconSVG = "/img/favicon.svg"
