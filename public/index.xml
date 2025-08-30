@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tong</title>
-    <link>http://www.example.com/</link>
+    <link>http://www.suntong.cc/</link>
     <description>Recent content on Tong</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate></lastBuildDate>
-    <atom:link href="http://www.example.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.suntong.cc/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
