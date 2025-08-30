@@ -6,3 +6,5 @@ slug = "about"
 +++
 
 currently, i am an embedded software development engineer working on an automotive ADAS project
+
+[Email](mailto:i@suntong.cc) 
